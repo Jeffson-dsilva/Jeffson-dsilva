@@ -5,7 +5,7 @@
 
 <h1 align="center"> 👋 Hi, There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <br>
-<p align="center"><a href="https://github.com/shamimsikder"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=6000&pause=1000&color=2AA889&center=true&vCenter=true&width=435&lines=I'm+Jeffson+Preetham+Dsilva%F0%9F%91%8B;A+Self-motivated+Tech+Enthusiast;" alt="Typing SVG" /></a></p>
+<p align="center"><a href="https://github.com/Jeffson-dsilva"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=6000&pause=1000&color=2AA889&center=true&vCenter=true&width=435&lines=I'm+Jeffson+Preetham+Dsilva%F0%9F%91%8B;A+Self-motivated+Tech+Enthusiast;" alt="Typing SVG" /></a></p>
 
 <br>
 <p align="center">I am fascinated by how computer technology 🌐 has brought changes to our lives that could never have been predicted; witnessing the expansion of computer science allowed me to consider studying software engineering. And also I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️ I enjoy the process of turning ideas into reality using creative solutions. I’m always curious about learning new skills, tools, and concepts.</p>
